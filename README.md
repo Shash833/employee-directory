@@ -7,6 +7,8 @@ The technologies used to create this application include:
 * Bootstrap
 * HTML/CSS
 
+The application has been deployed on Heroku: https://infinite-journey-61856.herokuapp.com/
+
 ## Preview: 
 
 ![initialTable](public/assets/initialView.PNG)
